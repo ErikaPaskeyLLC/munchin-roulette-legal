@@ -1,0 +1,72 @@
+<!-- privacy.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    h1 { color: #d2691e; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p><strong>Erika Paskey LLC</strong> built the Munchin' Roulette app as a commercial app. This SERVICE is provided by Erika Paskey LLC and is intended for use as is.</p>
+
+  <p>The app does not collect any personally identifiable information (PII), such as names, emails, or user accounts. Your location (ZIP code or GPS) is used solely to find nearby restaurants using the Yelp API. This data is not stored or shared.</p>
+
+  <p>We do not store or track your activity. Any data retrieved through the Yelp API is subject to Yelp’s own privacy practices. We are not responsible for the accuracy of Yelp's data or your experiences at suggested businesses.</p>
+
+  <p>If you choose to upgrade to the Pro version, your purchase will be processed through the app store’s payment system. No payment data is collected or stored by us.</p>
+
+  <p>If you have questions or concerns, contact us at <strong>roulettembb@gmail.com</strong>.</p>
+
+  <p>By using this app, you agree to this policy. This policy may be updated from time to time and changes will be reflected on this page.</p>
+</body>
+</html>
+
+<!-- terms.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terms of Use</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.6;
+    }
+    h1 { color: #d2691e; }
+  </style>
+</head>
+<body>
+  <h1>Terms of Use</h1>
+  <p>By using the Munchin' Roulette app, you agree to these terms. If you do not agree, please do not use the app.</p>
+
+  <h3>1. App Purpose</h3>
+  <p>This app helps users randomly select a restaurant based on location and filters. It relies on Yelp data to provide restaurant listings and details.</p>
+
+  <h3>2. No Guarantees</h3>
+  <p>We do not guarantee the accuracy of restaurant listings, operating hours, or quality. Yelp data may be incomplete or inaccurate. We are not liable for any inconvenience, dissatisfaction, or harm resulting from a visit to a suggested restaurant.</p>
+
+  <h3>3. Refund Policy</h3>
+  <p>All purchases are final. Refunds are only provided if the app fails to function. Contact <strong>roulettembb@gmail.com</strong> for support.</p>
+
+  <h3>4. No User Accounts</h3>
+  <p>This app does not require account creation. We do not collect or store personal information such as names or emails.</p>
+
+  <h3>5. Changes to Terms</h3>
+  <p>We reserve the right to update these terms. Continued use of the app after changes means you accept the revised terms.</p>
+</body>
+</html>
